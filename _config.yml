@@ -1,6 +1,6 @@
 title: Mech Frazier
 logo: /assets/img/frazier_headshot1.jpg
 description: 
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
