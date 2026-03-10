@@ -1,6 +1,6 @@
 title: Mech Frazier
 logo: /assets/img/frazier_headshot1.jpg
-description: ("View My GitHub Profile")[https://github.com/mefrazi2]
-show_downloads: false
+description: 
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
