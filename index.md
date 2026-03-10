@@ -13,5 +13,5 @@ More text to come!
 ## Averaging Tree Canopy Coverage Spatiotemporally
 More text to come!
 
-## Title here
+## Mapping the Mediterranean
 More text to come!
